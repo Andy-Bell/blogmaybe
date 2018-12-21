@@ -6,7 +6,6 @@ compile_sass = true
 
 # Set Theme
 theme = "after-dark"
-paginate_by = 5
 taxonomies = [
     # You can enable/disable RSS
     {name = "categories", rss = true},
@@ -22,3 +21,10 @@ build_search_index = true
 
 [extra]
 # Put all your custom variables here
+after_dark_menu = [
+    {url = "$BASE_URL", name = "Home"},
+    {url = "$BASE_URL/categories", name = "Categories"},
+    {url = "$BASE_URL/braindump", name = "Blog"},
+]
+
+
