@@ -15,6 +15,26 @@ The first implementation will be in Ruby (as that was the first lang I worked in
 
 The second will be in javascript:
 ```js
+const fizzbuzz = (n) => {
+  const { i, j } = () => {
+    const f = n % 5;
+    const b = n % 3;
+    return { i: f, j: b }
+  }
+
+  
+}
+
+const count = (x) => {
+  for(y=0; y =< x; y++){
+    console.log(fizzbuzz(y));
+  }
+}
+
+modules.export = {
+  fizzbuzz,
+  count
+}
 ```
 
 The third is one of my favourites, in Erlang:
