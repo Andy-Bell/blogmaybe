@@ -5,7 +5,6 @@ base_url = "https://andysomniac.xyz"
 compile_sass = true
 
 # Set Theme
-theme = "after-dark"
 taxonomies = [
     # You can enable/disable RSS
     {name = "categories", rss = true},
