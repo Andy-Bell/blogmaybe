@@ -1,0 +1,60 @@
+==================================================================
+https://keybase.io/andy_bell
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://andysomniac.xyz
+  * I am andy_bell (https://keybase.io/andy_bell) on keybase.
+  * I have a public key ASBAklE4tRNA1qohunsC8GGFBATwmFRiS_ft6KT3ip7tswo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid":
+"01200ed97769e659bf9feed66b022fa2b68887347e91c881ea50809ae41ee61fd25a0a",
+      "host": "keybase.io",
+      "kid":
+"012040925138b51340d6aa21ba7b02f061850404f09854624bf7ede8a4f78a9eedb30a",
+      "uid": "838dc838600d13285ebda962cbe8e819",
+      "username": "andy_bell"
+    },
+    "merkle_root": {
+      "ctime": 1555256559,
+      "hash":
+"509b62058a63858329848116dfa0aaea3380fcd699bf7f00b9875ab36f38b503d40d23bd5125a9aca37f0a0b7958030a467165ba7ec09ff857c1c216058770e7",
+      "hash_meta":
+"2d4547f845fd9cfe21f7b13a5e78ecebad4828e9c138bdffb4d94d6c958478d4",
+      "seqno": 5165387
+    },
+    "service": {
+      "entropy": "C8BtU2VcmFILq/a08DrTEdf5",
+      "hostname": "andysomniac.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.2"
+  },
+  "ctime": 1555256569,
+  "expire_in": 504576000,
+  "prev": "b0b6e348418f363de527a669515b5d8b34660b1dc21f0a952e5dff13342e58ab",
+  "seqno": 30,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQJJROLUTQNaqIbp7AvBhhQQE8JhUYkv37eik94qe7bMKp3BheWxvYWTESpcCHsQgsLbjSEGPNj3lJ6ZpUVtdizRmCx3CHwqVLl3/EzQuWKvEICri32CEVBla95VkHs4usJHqkXjOXsOXFlGUWbZ8LBWPAgHCo3NpZ8RAeBSo+mJd2m07CEUNBseGCeAlzRRMPezqkG8u3DTZMtvQOhTqMgPgYVnCpihUv29fR0l0R2lJLsR1Tq1bqcHfCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJdH8pVjr5va6svha5+T7540nmgctXqmuKdTQ7KMDJfwo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/andy_bell
+
+==================================================================
