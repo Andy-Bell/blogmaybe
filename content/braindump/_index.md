@@ -5,6 +5,7 @@ description = "My most recent version of a homepage"
 
 paginate_by = 5
 
+sort_by = date
 +++
 
 # Andy Bell
