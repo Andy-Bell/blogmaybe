@@ -3,8 +3,6 @@ title = "September 2019"
 description = "September 2019 Update"
 date = 2019-09-26
 +++
-# September 2019 update
-
 So I can pretty much say I have failed most if not all of my goals for 2019 so
 far.
 
