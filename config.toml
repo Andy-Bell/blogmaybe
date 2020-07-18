@@ -26,4 +26,6 @@ after_dark_menu = [
     {url = "$BASE_URL/braindump", name = "Blog"},
 ]
 
+# Generate rss.xml
+generate_rss = true
 
